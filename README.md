@@ -1,2 +1,0 @@
-# parcelSandbox
-Created with CodeSandbox
